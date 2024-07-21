@@ -1,0 +1,5 @@
+:root, [data-bs-theme=light] {
+  --bs-link-decoration: none;
+  --bs-border-color: #e3e6f0;
+}
+
